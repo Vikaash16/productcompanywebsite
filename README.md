@@ -143,10 +143,10 @@ products.html:
 ```
 
 ## OUTPUT:
-![OUTPUT](./out 1.jpg)
-![OUTPUT](./out 2.jpg)
+![OUTPUT](./out1.png)
+![OUTPUT](./out2.png)
 ### Home Page:
-![OUTPUT](./out 1.jpg)
+![OUTPUT](./out2.png)
 
 ## VALIDATOR:
 ![OUTPUT](./valid.jpeg)
